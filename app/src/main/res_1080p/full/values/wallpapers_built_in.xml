@@ -27,6 +27,7 @@
         <item>@drawable/urban_dayroad</item>
         <item>@drawable/urban_nightroad</item>
         <item>@drawable/deep_space</item>
+        <item>@drawable/sunset_at_the_keys</item>
     </array>
 
     <string-array name="wallpaper_built_in_names">
@@ -41,5 +42,6 @@
         <item>@string/wallpaper_built_in_dayroad</item>
         <item>@string/wallpaper_built_in_nightroad</item>
         <item>@string/wallpaper_built_in_space</item>
+        <item>@string/wallpaper_built_in_sunset</item>
     </string-array>
 </resources>
